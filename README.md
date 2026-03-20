@@ -21,7 +21,7 @@ This project presents a robotic arm gripper designed for the **Zero Arm**. The g
 | MHZ2-16D | 1 |
 | ZDT 35 Stepper Motor | 1 |
 | Flange ID 5mm | 1 |
-| M3*8 Screw | 8 |
+| M3*8 Screw | 12 |
 | M3*15 Screw | 2 |
 | M3*30 Screw | 4 |
 | M3 Nuts | 4 |
