@@ -5,10 +5,16 @@
 This project presents a robotic arm gripper designed for the **Zero Arm**. The gripper is modified from the MHZ2-16D pneumatic gripper and utilizes a crank-slider mechanism to achieve stable and reliable grasping. It is driven by a ZDT 35 stepper motor, and integrates with a stereo vision camera for depth measurement.
 
 ## 2. SolidWorks Preview
+### 2.1 Version 1
 ![](https://github.com/w7v-1212/Zero-Arm-End-Effector/blob/main/Images/1.png?raw=true) 
 ![](https://github.com/w7v-1212/Zero-Arm-End-Effector/blob/main/Images/2.png?raw=true)
 
+### 2.2 Version 2
+![](https://github.com/w7v-1212/Zero-Arm-End-Effector/blob/main/Images/3.png?raw=true)
+![](https://github.com/w7v-1212/Zero-Arm-End-Effector/blob/main/Images/4.png?raw=true)
+
 ## 3. Bill of Materials
+### Version 1
 | Materials | Quantity |
 |:--|:--:|
 | MotorSupport.STL | 1 |
@@ -24,6 +30,15 @@ This project presents a robotic arm gripper designed for the **Zero Arm**. The g
 | M3*30 Screw | 4 |
 | M3 Nuts | 4 |
 | M2.5*8 Screw | 4 |
+
+### Version 2
+| Materials | Quantity |
+|:--|:--:|
+| M3*8 Screw | 10 |
+| M3*25 Screw | 10 |
+| M3*28 Screw | 10 |
+| M3 Nuts | 20 
+| MG996R Servo Motor | 1 |
 
 ## TODO
 - [ ] SolidWorks CAD Drawing
